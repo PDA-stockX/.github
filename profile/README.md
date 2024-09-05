@@ -54,4 +54,5 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 
 ## Project Architecture
+<img width="718" alt="architecture diagram" src="https://github.com/user-attachments/assets/abec1778-04fe-485b-a302-14281e4d9dc9">
 
