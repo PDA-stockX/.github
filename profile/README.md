@@ -20,7 +20,7 @@
 |곽진현|김현수|박지민|박예린|
 |:---:|:---:|:---:|:---:|
 |<img width="120px" src="https://avatars.githubusercontent.com/u/93817551?s=96&v=4"/>|<img width="120px" src="https://avatars.githubusercontent.com/u/122847760?v=4" />|<img width="120px" src="https://avatars.githubusercontent.com/u/122578483?v=4"/>|<img width="120px" src="https://avatars.githubusercontent.com/u/46209669?v=4"/>|
-|회원 기능<br/>검색 기능<br/>아키텍처 설계 및 배포|오늘의 리포트 추천 기능<br/>즐겨찾기 및 채팅 기능 구현<br/>리포트 상세 페이지|UI/UX 설계, 문서 작성<br/>애널리스트 관련 페이지|데이터 크롤링<br/>증권사 관련 페이지|
+|회원 기능<br/>검색 기능<br/>크롤링 및 메일 발송 자동화<br/>아키텍처 설계 및 배포|오늘의 리포트 추천 기능<br/>즐겨찾기 및 채팅 기능 구현<br/>리포트 상세 페이지|UI/UX 설계, 문서 작성<br/>애널리스트 관련 페이지|데이터 크롤링<br/>증권사 관련 페이지|
 
 ## Main Features
 ### ⭐️ 증권사 및 애널리스트
