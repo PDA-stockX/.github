@@ -48,6 +48,8 @@
 
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![mariadb](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white)
 
 ### Communication
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
@@ -55,4 +57,4 @@
 
 ## Project Architecture
 <img width="718" alt="architecture diagram" src="https://github.com/user-attachments/assets/abec1778-04fe-485b-a302-14281e4d9dc9">
-
+<img width="718" alt="architecture diagram" src="https://github.com/user-attachments/assets/aed81095-5a47-4672-88c6-8902a7687972">
